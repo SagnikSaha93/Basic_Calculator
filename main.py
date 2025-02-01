@@ -1,7 +1,7 @@
 from logic import MatheMatics
 
 def main():
-    math_obj = MatheMatics()  # Create an instance of the class
+    math_obj = MatheMatics()
 
     choice = input("Enter the operation you want to perform (1,2,3,4):\n"
                    "1. Addition\n2. Subtraction\n3. Multiplication\n4. Division\n")
